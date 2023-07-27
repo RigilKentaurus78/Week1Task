@@ -1,0 +1,11 @@
+/*External CSS example*/
+/*Inline and Internal CSS overrides this*/
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #333;
+  background-color: whitesmoke;
+}
+/* Makes header bigger */
+h1 {
+  font-size: 45px;
+}
